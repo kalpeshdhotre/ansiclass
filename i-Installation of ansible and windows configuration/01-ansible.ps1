@@ -243,8 +243,3 @@ vars - other variables for the role .
 files - contains files which can be deployed via this role.
 templates - contains templates which can be deployed via this role.
 meta - defines some meta data for this role. 
-
-
-
-
-
